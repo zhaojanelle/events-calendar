@@ -19,7 +19,7 @@ th, td {
 }
 
 tbody tr {
-  min-height: 200px;
+  height: 200px;
 }
 
 .events {
