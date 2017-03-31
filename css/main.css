@@ -1,5 +1,5 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
 }
 
 table {
@@ -12,7 +12,6 @@ thead {
 
 tbody {
   vertical-align: top;
-  font-weight: bold;
 }
 
 th, td {
@@ -20,12 +19,11 @@ th, td {
 }
 
 tbody tr {
-    height: 200px;
+  min-height: 200px;
 }
 
 .events {
   border-radius: 8px;
-  font-weight: normal;
 }
 
 .events-green {
